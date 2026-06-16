@@ -5,7 +5,6 @@ FOLLOW_UP_MARKERS = [
     "この",
     "その",
     "あの",
-    "それ",
     "それは",
     "どこ",
     "どれ",
@@ -38,9 +37,6 @@ FOLLOW_UP_MARKERS = [
     "previous",
     "earlier",
     "above",
-    "that",
-    "where",
-    "when",
 ]
 
 INTENT_FEEDBACK = "FEEDBACK"
